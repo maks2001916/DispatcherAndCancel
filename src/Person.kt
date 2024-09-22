@@ -1,0 +1,1 @@
+data class Person(var nane: String, var salary: Int) {}

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="cloud.commandframework.kotlin.coroutines.annotations" type="repository">
+    <properties maven-id="cloud.commandframework:cloud-kotlin-coroutines-annotations:1.8.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/commandframework/cloud-kotlin-coroutines-annotations/1.8.4/cloud-kotlin-coroutines-annotations-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.31/kotlin-stdlib-jdk8-1.5.31.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.5.31/kotlin-stdlib-1.5.31.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.31/kotlin-stdlib-jdk7-1.5.31.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/commandframework/cloud-core/1.8.4/cloud-core-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/commandframework/cloud-services/1.8.4/cloud-services-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/commandframework/cloud-annotations/1.8.4/cloud-annotations-1.8.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.5.31/kotlin-reflect-1.5.31.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.2/kotlinx-coroutines-core-jvm-1.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.30/kotlin-stdlib-common-1.5.30.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.5.2/kotlinx-coroutines-jdk8-1.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.28.0/checker-qual-3.28.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
